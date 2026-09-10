@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  height: 100vh;
+  height: 100dvh;
   margin: 0 auto;
   overflow: hidden;
   position: relative;
@@ -97,7 +97,7 @@ body {
 
 .six {
   position: relative;
-  top: 10vh;
+  top: 7vh;
   z-index: 1;
 }
 
@@ -282,7 +282,7 @@ body {
   }
 
   .wish h5 {
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 
   .nine p {
